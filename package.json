@@ -1,0 +1,23 @@
+{
+  "name": "lesshint-reporter-unix",
+  "version": "1.0.1",
+  "description": "A unix reporter for lesshint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foretagsplatsen/lesshint-unix-reporter.git"
+  },
+  "keywords": [
+    "lesshint",
+    "reporter"
+  ],
+  "author": "Benjamin Van Ryseghem <benjamin.vanryseghem@gmail.com> (https://benjamin.vanryseghem.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foretagsplatsen/lesshint-unix-reporter/issues"
+  },
+  "homepage": "https://github.com/foretagsplatsen/lesshint-unix-reporter#readme"
+}
