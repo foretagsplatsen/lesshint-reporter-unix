@@ -5,7 +5,7 @@ module.exports = {
 	report: function report(results) {
 		results.forEach(function(result) {
 			var output = '';
-			output += process.cwd() + '/' + result.fullPath;
+			output += result.fullPath;
 
 			if (result.line && result.column) {
 				output += ':' + result.line;
